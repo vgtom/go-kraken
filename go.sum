@@ -1,0 +1,9 @@
+github.com/aopoltorzhicky/go_kraken v0.0.4 h1:E+G+6Zt3dmvABvp0GOQGhwAJRB4fvvvmr/GwLnnfsAs=
+github.com/aopoltorzhicky/go_kraken/rest v0.0.3 h1:oTRp0xqqsq0g83UOu6dCQtbKTk1lZjqtH3TsaDwDt/o=
+github.com/aopoltorzhicky/go_kraken/rest v0.0.3/go.mod h1:cen8hPWBicFQ1T4EoseSAkxvCD7zzZYIzxb0OVTHDk0=
+github.com/beldur/kraken-go-api-client v0.0.0-20210224120059-95450e0663fe h1:PEctFOkldQMnl1iPyROpmcMQ6Lr8n4Me1Gl3GXIHm/w=
+github.com/beldur/kraken-go-api-client v0.0.0-20210224120059-95450e0663fe/go.mod h1:NtR1i+x0BHgyscUkgG1FlAokpIxNDKgLO3301OLxWt0=
+github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
+github.com/gorilla/websocket v1.4.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
+github.com/preichenberger/go-coinbasepro/v2 v2.0.5 h1:Mf1k3vZTuLzuzcmCJBIbT8eiRD+N2uEG2C6Ug3upXiA=
+github.com/preichenberger/go-coinbasepro/v2 v2.0.5/go.mod h1:tsiN/OFQ5FiE+T2i3r88GHDVvR/Jxkx+CGKw7JSYLrE=
